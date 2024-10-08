@@ -21,9 +21,9 @@ Studying for back-end developer
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ense333&show_icons=true&theme=radical)
  
- 
+ <div>
  <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank"><img src="https://img.shields.io/badge/?style=plastic&logo=notion&logoColor=#000000"/></a>
-
+ </div>
 
 
 
