@@ -18,20 +18,23 @@
 
 💪🏼 Tools
 
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode"><img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea">
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode"><img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea"> <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" alt="Notion"/>
+  </a>
 
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ense333)
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ense333&show_icons=true&theme=radical)
- 
+
+<!--
 <div>
   <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </div>
-
+-->
 
 
 
