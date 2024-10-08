@@ -3,11 +3,6 @@
 </div>
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ense333)
- 
- 
- <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank"><img src="https://img.shields.io/badge/?style=plastic&logo=notion&logoColor=#000000"/></a>
-
  Majoring in Computer and Information Engineering in Kwangwoon University
 
 Studying for back-end developer
@@ -19,6 +14,15 @@ Studying for back-end developer
 💪🏼 Tools
 
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode"><img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea">
+
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ense333)
+ 
+ 
+ <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank"><img src="https://img.shields.io/badge/?style=plastic&logo=notion&logoColor=#000000"/></a>
+
+
 
 
 
