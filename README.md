@@ -8,6 +8,18 @@
  
  <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank"><img src="https://img.shields.io/badge/?style=plastic&logo=notion&logoColor=#000000"/></a>
 
+ Majoring in Computer and Information Engineering in Kwangwoon University
+
+Studying for back-end developer
+
+🛠️ Stacks 
+
+<img src="https://img.shields.io/badge/c-A8B9CC?logo=c"><img src="https://img.shields.io/badge/cplusplus-00599C?logo=cplusplus"><img src="https://img.shields.io/badge/java-007396?logo=java"><img src="https://img.shields.io/badge/spring-6DB33F?logo=spring">
+
+💪🏼 Tools
+
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?logo=visualstudio"><img src="https://img.shields.io/badge/visualstudiocode-007ACC?logo=visualstudiocode"><img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea">
+
 
 
 <!--
