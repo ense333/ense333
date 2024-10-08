@@ -4,8 +4,10 @@
 
 
  Majoring in Computer and Information Engineering in Kwangwoon University
+ 광운대학교 컴퓨터정보공학부 전공
 
-Studying for back-end developer
+ Studying for back-end developer
+ 벡엔드 개발자--! 
 
 🛠️ Stacks 
 
