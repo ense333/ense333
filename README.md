@@ -4,6 +4,7 @@
 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ense333)
+ <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=notion&logoColor=로고색상"/></a>
 
 
 
