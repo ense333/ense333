@@ -3,7 +3,7 @@
 </div>
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ense333)
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ense333) />
 
 
 <!--
