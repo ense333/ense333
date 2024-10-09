@@ -30,7 +30,7 @@
 
 <!--
 <div>
-  <a href="https://purrfect-alpaca-e1c.notion.site/NEW-START-d2b145d24d174c8eb2c17a71ff8ae877" target="_blank">
+  <a href="https://purrfect-alpaca-e1c.notion.site/d2b145d24d174c8eb2c17a71ff8ae877" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" alt="Notion"/>
   </a>
 </div>
