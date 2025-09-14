@@ -4,13 +4,15 @@
 <h1>Welcome to Sangyeon's profile</h1>
 
 
- Majoring in Computer and Information Engineering in Kwangwoon University
+ Majored in Computer and Information Engineering in Kwangwoon University
  
- 광운대학교 컴퓨터정보공학부에 재학중에 있습니다!
+ 광운대학교 컴퓨터정보공학을 전공했습니다.
 
- Studying for back-end developer
+ My motto is continue to grow and develop.
  
- 벡엔드 개발자를 목표로 공부 중에 있습니다
+ 계속 성장해나가면서 발전해나가자는 모토입니다.
+ 
+
 
 🛠️ Stacks 
 
